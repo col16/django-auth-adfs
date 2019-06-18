@@ -14,7 +14,7 @@ Step 1 - Register an application
 --------------------------------
 
 Open the **Azure Active Directory** dashboard and click **Properties**.
-The **Directory ID** field contains the value for the :ref:`tenant_id_setting` setting.
+The **Directory ID** field contains the value for the :ref:`tenant_id` setting.
 
 .. image:: _static/AzureAD/01-Azure_AD.png
    :scale: 50 %
